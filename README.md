@@ -33,5 +33,5 @@ with open("spotify_images.txt", "w") as f:
 wget -i spotify_images.txt
 ```
 ```bash
-for f in $(ls); do mv $f $f.png ; done
+for f in $(ls); do mv $f $f.png ;done
 ```
