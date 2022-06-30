@@ -1,4 +1,4 @@
-# spotify-getdata
+# easy-spotify-fetcher
 
 Fetch data as JSON files and download album covers, easily.
 
